@@ -1,0 +1,15 @@
+Activity 2: Adding a Collaborator
+
+Objective:
+To learn how to collaborate with another person using GitHub.
+
+Activities performed:
+1. Created a GitHub repository.
+2. Invited my partner as a collaborator.
+3. Shared the repository link with my partner.
+4. Practiced making, committing, pushing, and pulling changes.
+5. Learned how collaborators can work together using Git branches and resolve conflicts.
+
+Partner's GitHub username: maikatribo
+
+Repository link: https://github.com/elleintheloop/Repository2-Activity2.git

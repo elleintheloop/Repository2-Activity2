@@ -8,7 +8,7 @@ Activities performed:
 2. Invited my partner as a collaborator.
 3. Shared the repository link with my partner.
 4. Practiced making, committing, pushing, and pulling changes.
-5. Learned how collaborators can work together using Git branches and resolve conflicts.
+5. Learned how collaborators can work together using Git branches.
 
 Partner's GitHub username: maikatribo
 
